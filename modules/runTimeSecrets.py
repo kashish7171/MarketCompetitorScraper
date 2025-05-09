@@ -6,9 +6,9 @@ PASS = "fslrITAZvB0Qj8G"
 
 # MSP Live Vendor Specific VendorPricing DB - AF/HP
 HOST2 = "157.245.132.95"
-DB2 = "ruxgjrreby"
-USER2 = "ruxgjrreby"
-PASS2 = "qjRkD6jYYy"
+DB2 = "kkffhzpedq"
+USER2 = "kkffhzpedq"
+PASS2 = "MgXHgkx2Nm"
 
 # MSP Live Vendor Specific VendorPricing DB - NON AF/HP
 HOST3 = "157.245.132.95"
